@@ -1,4 +1,4 @@
-package com.praktikum.database.testing.service;
+package com.praktikum.database.testing.library.service;
 
 public class UserService {
 }

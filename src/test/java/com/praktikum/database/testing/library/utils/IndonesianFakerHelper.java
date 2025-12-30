@@ -1,4 +1,4 @@
-package com.praktikum.database.testing.library.config;
+package com.praktikum.database.testing.library.utils;
 
 import com.github.javafaker.Faker;
 import java.util.Locale;
